@@ -658,6 +658,7 @@
 					"\"$(SRCROOT)/PunjabiFlashCards/Flurry iPhone SDK v3.0.9/FlurryAnalytics\"",
 					"\"$(SRCROOT)/PunjabiFlashCards/Flurry iPhone SDK v3.0.9/FlurryAppCircle\"",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.davies.PunjabiFlashCards;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -675,6 +676,7 @@
 					"\"$(SRCROOT)/PunjabiFlashCards/Flurry iPhone SDK v3.0.9/FlurryAnalytics\"",
 					"\"$(SRCROOT)/PunjabiFlashCards/Flurry iPhone SDK v3.0.9/FlurryAppCircle\"",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.davies.PunjabiFlashCards;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
