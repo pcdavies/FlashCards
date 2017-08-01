@@ -1,6 +1,9 @@
 # FlashCards
 
-Sample Objective C application for testing out various ios features
+Sample Objective C application for testing out various ios features.
+
+
+**Download** the file **FlashCardDemo.mp4** to view the demo running in an IOS Simulator.
 
 ## Load Application 
 
